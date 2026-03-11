@@ -40,7 +40,7 @@ API предоставляет следующий функционал:
 ## 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/yourusername/auth-api.git
+git clone https://github.com/Olivka13134/auth-api.git
 cd auth-api
 ```
 
